@@ -3,7 +3,7 @@
 # Hi, I'm **Ho Ngoc Hoa** 👋
 
 **Fullstack Developer (Student) · Da Nang, Viet Nam 🇻🇳**  
-69 Nguyen Dinh Hien, Da Nang · 0376 143 967 · hongochoa203@gmail.com  
+Da Son 2, Hoa Khanh Nam, Lien Chieu, Da Nang · 0376 143 967 · hongochoa203@gmail.com  
 [GitHub @ngochoa203](https://github.com/ngochoa203)
 
 *Software engineering student focusing on modern web (React/Next.js + TypeScript) and backend APIs (Python/FastAPI). Passionate about building useful products & learning by doing.*
@@ -54,15 +54,6 @@
 	<img src="https://streak-stats.demolab.com?user=ngochoa203&theme=tokyonight&hide_border=true" height="150" />
 	<img src="https://komarev.com/ghpvc/?username=ngochoa203&color=1f6feb&style=flat" />
 </p>
-
----
-
-## � Current Focus
-
-- Cải thiện kỹ năng triển khai sản phẩm end‑to‑end (frontend ↔ backend)
-- Thực hành tối ưu REST API & bảo mật cơ bản (JWT, phân quyền)
-- Học thêm về Docker & AWS thực tế triển khai nhỏ
-- Tăng cường kỹ năng phân tích & tối ưu truy vấn PostgreSQL
 
 ---
 
