@@ -32,68 +32,60 @@ Da Son 2, Hoa Khanh Nam, Lien Chieu · 0376 143 967 · hongochoa203@gmail.com
 
 <div align="center">
 
-<div style="display:flex;flex-wrap:wrap;justify-content:center;gap:16px;">
-
-	<div style="min-width:210px;max-width:230px;padding:14px 16px;border:1px solid #2d333b;border-radius:14px;background:#0d1117;text-align:left;">
-		<h4 style="margin:4px 0 8px;">🖥️ Frontend</h4>
-		<p style="margin:0 0 6px;">
-			<code>React</code> <code>Next.js</code> <code>TypeScript</code><br/>
-			<code>CSS Modules</code>
-		</p>
+<details open>
+	<summary><strong>🖥️ Frontend</strong></summary>
+	<p>
+		<kbd>React</kbd> <kbd>Next.js</kbd> <kbd>TypeScript</kbd> <kbd>CSS&nbsp;Modules</kbd><br/>
 		<img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb" />
 		<img src="https://img.shields.io/badge/Next.js-000?logo=next.js" />
 		<img src="https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white" />
-	</div>
+	</p>
+</details>
 
-	<div style="min-width:210px;max-width:230px;padding:14px 16px;border:1px solid #2d333b;border-radius:14px;background:#0d1117;text-align:left;">
-		<h4 style="margin:4px 0 8px;">⚙️ Backend / APIs</h4>
-		<p style="margin:0 0 6px;">
-			<code>FastAPI</code> <code>Python (async)</code> <code>REST</code>
-		</p>
+<details open>
+	<summary><strong>⚙️ Backend / APIs</strong></summary>
+	<p>
+		<kbd>FastAPI</kbd> <kbd>Python (async)</kbd> <kbd>REST</kbd><br/>
 		<img src="https://img.shields.io/badge/FastAPI-05998b?logo=fastapi&logoColor=white" />
 		<img src="https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=ffdd54" />
-	</div>
+	</p>
+</details>
 
-	<div style="min-width:210px;max-width:230px;padding:14px 16px;border:1px solid #2d333b;border-radius:14px;background:#0d1117;text-align:left;">
-		<h4 style="margin:4px 0 8px;">🗄️ Data</h4>
-		<p style="margin:0 0 6px;">
-			<code>PostgreSQL</code> <code>MySQL</code>
-		</p>
+<details>
+	<summary><strong>🗄️ Data</strong></summary>
+	<p>
+		<kbd>PostgreSQL</kbd> <kbd>MySQL</kbd><br/>
 		<img src="https://img.shields.io/badge/PostgreSQL-31648c?logo=postgresql&logoColor=white" />
 		<img src="https://img.shields.io/badge/MySQL-0f4c78?logo=mysql&logoColor=white" />
-	</div>
+	</p>
+</details>
 
-	<div style="min-width:210px;max-width:230px;padding:14px 16px;border:1px solid #2d333b;border-radius:14px;background:#0d1117;text-align:left;">
-		<h4 style="margin:4px 0 8px;">🚀 DevOps & Cloud</h4>
-		<p style="margin:0 0 6px;">
-			<code>Git</code> <code>Docker (basic)</code><br/>
-			<code>Postman</code> <code>AWS (EC2 · Lambda)</code>
-		</p>
+<details>
+	<summary><strong>🚀 DevOps & Cloud</strong></summary>
+	<p>
+		<kbd>Git</kbd> <kbd>Docker (basic)</kbd> <kbd>Postman</kbd> <kbd>AWS (EC2 · Lambda)</kbd><br/>
 		<img src="https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white" />
 		<img src="https://img.shields.io/badge/AWS-232f3e?logo=amazonaws&logoColor=ff9900" />
-	</div>
+	</p>
+</details>
 
-	<div style="min-width:210px;max-width:230px;padding:14px 16px;border:1px solid #2d333b;border-radius:14px;background:#0d1117;text-align:left;">
-		<h4 style="margin:4px 0 8px;">🧪 Learning / Exploring</h4>
-		<p style="margin:0 0 6px;">
-			<code>SQLModel</code> <code>Prisma</code> <code>CI/CD</code>
-		</p>
+<details>
+	<summary><strong>🧪 Learning / Exploring</strong></summary>
+	<p>
+		<kbd>SQLModel</kbd> <kbd>Prisma</kbd> <kbd>CI/CD</kbd><br/>
 		<img src="https://img.shields.io/badge/Experimenting-FFD700?labelColor=444&style=flat" />
-	</div>
+	</p>
+</details>
 
-	<div style="min-width:210px;max-width:230px;padding:14px 16px;border:1px solid #2d333b;border-radius:14px;background:#0d1117;text-align:left;">
-		<h4 style="margin:4px 0 8px;">🤝 Soft Skills</h4>
-		<p style="margin:0 0 6px;">
-			<code>Communication</code> <code>Teamwork</code><br/>
-			<code>Problem Solving</code>
-		</p>
+<details>
+	<summary><strong>🤝 Soft Skills</strong></summary>
+	<p>
+		<kbd>Communication</kbd> <kbd>Teamwork</kbd> <kbd>Problem&nbsp;Solving</kbd><br/>
 		<img src="https://img.shields.io/badge/Focus-Quality%20%26%20Iteration-36BCF7?labelColor=20232a" />
-	</div>
+	</p>
+</details>
 
-</div>
-
-<br/>
-<sub>Focused stack • Depth over breadth • Ship → get feedback → refine.</sub>
+<sub>Focused stack • Depth over breadth • Ship → feedback → refine.</sub>
 
 </div>
 
