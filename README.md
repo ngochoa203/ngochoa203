@@ -32,60 +32,69 @@ Da Son 2, Hoa Khanh Nam, Lien Chieu · 0376 143 967 · hongochoa203@gmail.com
 
 <div align="center">
 
-<details open>
-	<summary><strong>🖥️ Frontend</strong></summary>
-	<p>
-		<kbd>React</kbd> <kbd>Next.js</kbd> <kbd>TypeScript</kbd> <kbd>CSS&nbsp;Modules</kbd><br/>
-		<img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb" />
-		<img src="https://img.shields.io/badge/Next.js-000?logo=next.js" />
-		<img src="https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white" />
-	</p>
-</details>
+<table>
+<thead>
+<tr>
+<th align="left">Area</th>
+<th align="left">Stack / Tools</th>
+<th align="left">Badges</th>
+<th align="left">Focus / Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>🖥️ Frontend</td>
+<td><code>React</code> · <code>Next.js</code> · <code>TypeScript</code><br/><code>CSS Modules</code></td>
+<td>
+<img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb" />
+<img src="https://img.shields.io/badge/Next.js-000?logo=next.js" />
+<img src="https://img.shields.io/badge/TS-3178c6?logo=typescript&logoColor=white" />
+</td>
+<td>Component patterns, DX, accessibility</td>
+</tr>
+<tr>
+<td>⚙️ Backend / APIs</td>
+<td><code>FastAPI</code> · <code>Python (async)</code> · <code>REST</code></td>
+<td>
+<img src="https://img.shields.io/badge/FastAPI-05998b?logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=ffdd54" />
+</td>
+<td>Clean endpoints, validation, auth</td>
+</tr>
+<tr>
+<td>🗄️ Data</td>
+<td><code>PostgreSQL</code> · <code>MySQL</code></td>
+<td>
+<img src="https://img.shields.io/badge/PostgreSQL-31648c?logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-0f4c78?logo=mysql&logoColor=white" />
+</td>
+<td>Schema design, indexing basics</td>
+</tr>
+<tr>
+<td>🚀 DevOps & Cloud</td>
+<td><code>Git</code> · <code>Docker (basic)</code> · <code>Postman</code><br/><code>AWS (EC2 · Lambda)</code></td>
+<td>
+<img src="https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232f3e?logo=amazonaws&logoColor=ff9900" />
+</td>
+<td>Repeatable envs, lightweight deploys</td>
+</tr>
+<tr>
+<td>🧪 Learning</td>
+<td><code>SQLModel</code> · <code>Prisma</code> · <code>CI/CD</code></td>
+<td><img src="https://img.shields.io/badge/Experiment-FFD700?labelColor=444&style=flat" /></td>
+<td>Exploring ORM choices + pipelines</td>
+</tr>
+<tr>
+<td>🤝 Soft Skills</td>
+<td><code>Communication</code> · <code>Teamwork</code> · <code>Problem Solving</code></td>
+<td><img src="https://img.shields.io/badge/Focus-Iteration-36BCF7?labelColor=20232a" /></td>
+<td>Ship → feedback → refine loop</td>
+</tr>
+</tbody>
+</table>
 
-<details open>
-	<summary><strong>⚙️ Backend / APIs</strong></summary>
-	<p>
-		<kbd>FastAPI</kbd> <kbd>Python (async)</kbd> <kbd>REST</kbd><br/>
-		<img src="https://img.shields.io/badge/FastAPI-05998b?logo=fastapi&logoColor=white" />
-		<img src="https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=ffdd54" />
-	</p>
-</details>
-
-<details>
-	<summary><strong>🗄️ Data</strong></summary>
-	<p>
-		<kbd>PostgreSQL</kbd> <kbd>MySQL</kbd><br/>
-		<img src="https://img.shields.io/badge/PostgreSQL-31648c?logo=postgresql&logoColor=white" />
-		<img src="https://img.shields.io/badge/MySQL-0f4c78?logo=mysql&logoColor=white" />
-	</p>
-</details>
-
-<details>
-	<summary><strong>🚀 DevOps & Cloud</strong></summary>
-	<p>
-		<kbd>Git</kbd> <kbd>Docker (basic)</kbd> <kbd>Postman</kbd> <kbd>AWS (EC2 · Lambda)</kbd><br/>
-		<img src="https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white" />
-		<img src="https://img.shields.io/badge/AWS-232f3e?logo=amazonaws&logoColor=ff9900" />
-	</p>
-</details>
-
-<details>
-	<summary><strong>🧪 Learning / Exploring</strong></summary>
-	<p>
-		<kbd>SQLModel</kbd> <kbd>Prisma</kbd> <kbd>CI/CD</kbd><br/>
-		<img src="https://img.shields.io/badge/Experimenting-FFD700?labelColor=444&style=flat" />
-	</p>
-</details>
-
-<details>
-	<summary><strong>🤝 Soft Skills</strong></summary>
-	<p>
-		<kbd>Communication</kbd> <kbd>Teamwork</kbd> <kbd>Problem&nbsp;Solving</kbd><br/>
-		<img src="https://img.shields.io/badge/Focus-Quality%20%26%20Iteration-36BCF7?labelColor=20232a" />
-	</p>
-</details>
-
-<sub>Focused stack • Depth over breadth • Ship → feedback → refine.</sub>
+<sub>Focused stack • Depth over breadth • Continuous feedback.</sub>
 
 </div>
 
