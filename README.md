@@ -9,12 +9,11 @@
 **Da Nang, Viet Nam 🇻🇳**  
 Da Son 2, Hoa Khanh Nam, Lien Chieu · 0376 143 967 · hongochoa203@gmail.com
 
-<p>
-	<a href="https://github.com/ngochoa203"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
-	<a href="mailto:hongochoa203@gmail.com"><img src="https://img.shields.io/badge/Email-hongochoa203%40gmail.com-EA4335?logo=gmail&logoColor=white" /></a>
-	<a href="https://www.facebook.com/ngochoa203/"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" /></a>
-</p>
-
+<tr>
+<th align="left">Area</th>
+<th align="left">Stack / Tools</th>
+<th align="center">Badges</th>
+</tr>
 *Modern web & API enthusiast (React / Next.js / FastAPI). I like building small features fast, then refining performance, DX & UX.*
 
 <p align="center">
@@ -38,7 +37,6 @@ Da Son 2, Hoa Khanh Nam, Lien Chieu · 0376 143 967 · hongochoa203@gmail.com
 <th align="left">Area</th>
 <th align="left">Stack / Tools</th>
 <th align="center">Badges</th>
-<th align="left">Focus / Notes</th>
 </tr>
 </thead>
 <tbody>
@@ -50,7 +48,6 @@ Da Son 2, Hoa Khanh Nam, Lien Chieu · 0376 143 967 · hongochoa203@gmail.com
 <img src="https://img.shields.io/badge/Next.js-000?logo=next.js" />
 <img src="https://img.shields.io/badge/TS-3178c6?logo=typescript&logoColor=white" />
 </td>
-<td>Component patterns, DX, accessibility</td>
 </tr>
 <tr>
 <td>⚙️ Backend / APIs</td>
@@ -59,7 +56,6 @@ Da Son 2, Hoa Khanh Nam, Lien Chieu · 0376 143 967 · hongochoa203@gmail.com
 <img src="https://img.shields.io/badge/FastAPI-05998b?logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=ffdd54" />
 </td>
-<td>Clean endpoints, validation, auth</td>
 </tr>
 <tr>
 <td>🗄️ Data</td>
@@ -68,7 +64,6 @@ Da Son 2, Hoa Khanh Nam, Lien Chieu · 0376 143 967 · hongochoa203@gmail.com
 <img src="https://img.shields.io/badge/PostgreSQL-31648c?logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-0f4c78?logo=mysql&logoColor=white" />
 </td>
-<td>Schema design, indexing basics</td>
 </tr>
 <tr>
 <td>🚀 DevOps & Cloud</td>
@@ -77,19 +72,16 @@ Da Son 2, Hoa Khanh Nam, Lien Chieu · 0376 143 967 · hongochoa203@gmail.com
 <img src="https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232f3e?logo=amazonaws&logoColor=ff9900" />
 </td>
-<td>Repeatable envs, lightweight deploys</td>
 </tr>
 <tr>
 <td>🧪 Learning</td>
 <td><code>SQLModel</code> · <code>Prisma</code> · <code>CI/CD</code></td>
 <td align="center"><img src="https://img.shields.io/badge/Experiment-FFD700?labelColor=444&style=flat" /></td>
-<td>Exploring ORM choices + pipelines</td>
 </tr>
 <tr>
 <td>🤝 Soft Skills</td>
 <td><code>Communication</code> · <code>Teamwork</code> · <code>Problem Solving</code></td>
 <td align="center"><img src="https://img.shields.io/badge/Focus-Iteration-36BCF7?labelColor=20232a" /></td>
-<td>Ship → feedback → refine loop</td>
 </tr>
 </tbody>
 </table>
