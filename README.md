@@ -30,14 +30,14 @@ Da Son 2, Hoa Khanh Nam, Lien Chieu · 0376 143 967 · hongochoa203@gmail.com
 
 ## 🔧 Tech Stack
 
-<div align="center">
+<div>
 
 <table>
 <thead>
 <tr>
 <th align="left">Area</th>
 <th align="left">Stack / Tools</th>
-<th align="left">Badges</th>
+<th align="center">Badges</th>
 <th align="left">Focus / Notes</th>
 </tr>
 </thead>
@@ -45,7 +45,7 @@ Da Son 2, Hoa Khanh Nam, Lien Chieu · 0376 143 967 · hongochoa203@gmail.com
 <tr>
 <td>🖥️ Frontend</td>
 <td><code>React</code> · <code>Next.js</code> · <code>TypeScript</code><br/><code>CSS Modules</code></td>
-<td>
+<td align="center">
 <img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb" />
 <img src="https://img.shields.io/badge/Next.js-000?logo=next.js" />
 <img src="https://img.shields.io/badge/TS-3178c6?logo=typescript&logoColor=white" />
@@ -55,7 +55,7 @@ Da Son 2, Hoa Khanh Nam, Lien Chieu · 0376 143 967 · hongochoa203@gmail.com
 <tr>
 <td>⚙️ Backend / APIs</td>
 <td><code>FastAPI</code> · <code>Python (async)</code> · <code>REST</code></td>
-<td>
+<td align="center">
 <img src="https://img.shields.io/badge/FastAPI-05998b?logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=ffdd54" />
 </td>
@@ -64,7 +64,7 @@ Da Son 2, Hoa Khanh Nam, Lien Chieu · 0376 143 967 · hongochoa203@gmail.com
 <tr>
 <td>🗄️ Data</td>
 <td><code>PostgreSQL</code> · <code>MySQL</code></td>
-<td>
+<td align="center">
 <img src="https://img.shields.io/badge/PostgreSQL-31648c?logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-0f4c78?logo=mysql&logoColor=white" />
 </td>
@@ -73,7 +73,7 @@ Da Son 2, Hoa Khanh Nam, Lien Chieu · 0376 143 967 · hongochoa203@gmail.com
 <tr>
 <td>🚀 DevOps & Cloud</td>
 <td><code>Git</code> · <code>Docker (basic)</code> · <code>Postman</code><br/><code>AWS (EC2 · Lambda)</code></td>
-<td>
+<td align="center">
 <img src="https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232f3e?logo=amazonaws&logoColor=ff9900" />
 </td>
@@ -82,13 +82,13 @@ Da Son 2, Hoa Khanh Nam, Lien Chieu · 0376 143 967 · hongochoa203@gmail.com
 <tr>
 <td>🧪 Learning</td>
 <td><code>SQLModel</code> · <code>Prisma</code> · <code>CI/CD</code></td>
-<td><img src="https://img.shields.io/badge/Experiment-FFD700?labelColor=444&style=flat" /></td>
+<td align="center"><img src="https://img.shields.io/badge/Experiment-FFD700?labelColor=444&style=flat" /></td>
 <td>Exploring ORM choices + pipelines</td>
 </tr>
 <tr>
 <td>🤝 Soft Skills</td>
 <td><code>Communication</code> · <code>Teamwork</code> · <code>Problem Solving</code></td>
-<td><img src="https://img.shields.io/badge/Focus-Iteration-36BCF7?labelColor=20232a" /></td>
+<td align="center"><img src="https://img.shields.io/badge/Focus-Iteration-36BCF7?labelColor=20232a" /></td>
 <td>Ship → feedback → refine loop</td>
 </tr>
 </tbody>
