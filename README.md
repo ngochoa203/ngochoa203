@@ -9,11 +9,6 @@
 **Da Nang, Viet Nam 🇻🇳**  
 Da Son 2, Hoa Khanh Nam, Lien Chieu · 0376 143 967 · hongochoa203@gmail.com
 
-<tr>
-<th align="left">Area</th>
-<th align="left">Stack / Tools</th>
-<th align="center">Badges</th>
-</tr>
 *Modern web & API enthusiast (React / Next.js / FastAPI). I like building small features fast, then refining performance, DX & UX.*
 
 <p align="center">
@@ -25,74 +20,48 @@ Da Son 2, Hoa Khanh Nam, Lien Chieu · 0376 143 967 · hongochoa203@gmail.com
 
 </div>
 
----
 
 ## 🔧 Tech Stack
 
 <div>
 
-<table>
-<thead>
-<tr>
-<th align="left">Area</th>
-<th align="left">Stack / Tools</th>
-<th align="center">Badges</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>🖥️ Frontend</td>
-<td><code>React</code> · <code>Next.js</code> · <code>TypeScript</code><br/><code>CSS Modules</code></td>
-<td align="center">
-<img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb" />
-<img src="https://img.shields.io/badge/Next.js-000?logo=next.js" />
-<img src="https://img.shields.io/badge/TS-3178c6?logo=typescript&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td>⚙️ Backend / APIs</td>
-<td><code>FastAPI</code> · <code>Python (async)</code> · <code>REST</code></td>
-<td align="center">
-<img src="https://img.shields.io/badge/FastAPI-05998b?logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=ffdd54" />
-</td>
-</tr>
-<tr>
-<td>🗄️ Data</td>
-<td><code>PostgreSQL</code> · <code>MySQL</code></td>
-<td align="center">
-<img src="https://img.shields.io/badge/PostgreSQL-31648c?logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-0f4c78?logo=mysql&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td>🚀 DevOps & Cloud</td>
-<td><code>Git</code> · <code>Docker (basic)</code> · <code>Postman</code><br/><code>AWS (EC2 · Lambda)</code></td>
-<td align="center">
-<img src="https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232f3e?logo=amazonaws&logoColor=ff9900" />
-</td>
-</tr>
-<tr>
-<td>🧪 Learning</td>
-<td><code>SQLModel</code> · <code>Prisma</code> · <code>CI/CD</code></td>
-<td align="center"><img src="https://img.shields.io/badge/Experiment-FFD700?labelColor=444&style=flat" /></td>
-</tr>
-<tr>
-<td>🤝 Soft Skills</td>
-<td><code>Communication</code> · <code>Teamwork</code> · <code>Problem Solving</code></td>
-<td align="center"><img src="https://img.shields.io/badge/Focus-Iteration-36BCF7?labelColor=20232a" /></td>
-</tr>
-</tbody>
-</table>
+> 🖥️ **Frontend**  
+> React · Next.js · TypeScript · CSS Modules  
+> <img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb" />
+> <img src="https://img.shields.io/badge/Next.js-000?logo=next.js" />
+> <img src="https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white" />
+
+
+> ⚙️ **Backend / APIs**  
+> FastAPI · Python (async) · REST  
+> <img src="https://img.shields.io/badge/FastAPI-05998b?logo=fastapi&logoColor=white" />
+> <img src="https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=ffdd54" />
+
+
+> 🗄️ **Data**  
+> PostgreSQL · MySQL  
+> <img src="https://img.shields.io/badge/PostgreSQL-31648c?logo=postgresql&logoColor=white" />
+> <img src="https://img.shields.io/badge/MySQL-0f4c78?logo=mysql&logoColor=white" />
+
+
+> 🚀 **DevOps & Cloud**  
+> Git · Docker (basic) · Postman · AWS (EC2 · Lambda)  
+> <img src="https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white" />
+> <img src="https://img.shields.io/badge/AWS-232f3e?logo=amazonaws&logoColor=ff9900" />
+
+
+> 🧪 **Learning / Exploring**  
+> SQLModel · Prisma · CI/CD  
+> <img src="https://img.shields.io/badge/Experiment-FFD700?labelColor=444&style=flat" />
+
+
+> 🤝 **Soft Skills**  
+> Communication · Teamwork · Problem Solving  
+> <img src="https://img.shields.io/badge/Focus-Iteration-36BCF7?labelColor=20232a" />
 
 <sub>Focused stack • Depth over breadth • Continuous feedback.</sub>
 
 </div>
-
-<!-- Removed old stacked badges section in favor of centered block above -->
-
----
 
 
 ## 🏆 Awards & Certifications
@@ -101,7 +70,6 @@ Da Son 2, Hoa Khanh Nam, Lien Chieu · 0376 143 967 · hongochoa203@gmail.com
 | ---- | ----------- | ----- |
 | 2023 | Fourth Prize – Robocar Innovation Contest (4th Edition) | Team Robotics / Innovation |
 
----
 
 ## 📸 GitHub Snapshot
 
@@ -117,7 +85,6 @@ Da Son 2, Hoa Khanh Nam, Lien Chieu · 0376 143 967 · hongochoa203@gmail.com
 	<img src="https://komarev.com/ghpvc/?username=ngochoa203&color=1f6feb&style=flat" />
 </p>
 
----
 
 ## 📫 Contact
 
@@ -128,11 +95,3 @@ Da Son 2, Hoa Khanh Nam, Lien Chieu · 0376 143 967 · hongochoa203@gmail.com
 | Email | hongochoa203@gmail.com |
 | Phone | 0376 143 967 |
 | Location | Da Nang, Viet Nam |
-
----
-
-
-<div align="center">
-
-
-</div>
