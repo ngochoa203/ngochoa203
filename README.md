@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=36BCF7&text=Ho%20Ngoc%20Hoa&height=90&fontAlign=50&desc=Fullstack%20Developer%20(Student)&descAlign=50&descSize=16" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=36BCF7&text=Ho%20Ngoc%20Hoa&height=90&fontAlign=50&animation=fadeIn" alt="Name Banner" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Fullstack+Developer+Student;FastAPI+%7C+React+%7C+PostgreSQL;Always+learning+and+building" alt="Typing Animation" />
+<strong><span style="font-size:16px;letter-spacing:1px;">Fullstack Developer (Student)</span></strong>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Always+learning+and+building;FastAPI+%7C+React+%7C+PostgreSQL" alt="Typing Animation" />
 
 **Da Nang, Viet Nam 🇻🇳**  
 Da Son 2, Hoa Khanh Nam, Lien Chieu · 0376 143 967 · hongochoa203@gmail.com
@@ -13,10 +15,10 @@ Da Son 2, Hoa Khanh Nam, Lien Chieu · 0376 143 967 · hongochoa203@gmail.com
 	<a href="https://www.facebook.com/ngochoa203/"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" /></a>
 </p>
 
-*Software engineering student focusing on modern web (React/Next.js + TypeScript) & backend APIs (Python/FastAPI). I enjoy shipping small iterative features, improving performance and developer experience.*
+*Modern web & API enthusiast (React / Next.js / FastAPI). I like building small features fast, then refining performance, DX & UX.*
 
 <p align="center">
-	<a href="#-tech-stack">Tech Stack</a> •
+	<a href="#-tech-stack">Tech&nbsp;Stack</a> •
 	<a href="#-awards--certifications">Awards</a> •
 	<a href="#-github-snapshot">Stats</a> •
 	<a href="#-contact">Contact</a>
@@ -28,31 +30,74 @@ Da Son 2, Hoa Khanh Nam, Lien Chieu · 0376 143 967 · hongochoa203@gmail.com
 
 ## 🔧 Tech Stack
 
-| Frontend | Backend | Database | DevOps / Tools | Soft Skills |
-| -------- | ------- | -------- | -------------- | ----------- |
-| HTML · CSS · ReactJS · Next.js · TypeScript | Python · FastAPI | PostgreSQL · MySQL | Git · GitHub · Postman · Docker (Basic) · AWS (EC2, Lambda - Basic) | Communication · Teamwork · Problem Solving |
+<div align="center">
 
-<p align="center">
-	<img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb" />
-	<img src="https://img.shields.io/badge/Next.js-000?logo=next.js" />
-	<img src="https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white" />
-	<img src="https://img.shields.io/badge/FastAPI-05998b?logo=fastapi&logoColor=white" />
-	<img src="https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=ffdd54" />
-	<img src="https://img.shields.io/badge/PostgreSQL-31648c?logo=postgresql&logoColor=white" />
-	<img src="https://img.shields.io/badge/MySQL-0f4c78?logo=mysql&logoColor=white" />
-	<img src="https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white" />
-	<img src="https://img.shields.io/badge/AWS-232f3e?logo=amazonaws&logoColor=ff9900" />
-</p>
+<div style="display:flex;flex-wrap:wrap;justify-content:center;gap:16px;">
 
-<details>
-<summary><b>Why these?</b></summary>
+	<div style="min-width:210px;max-width:230px;padding:14px 16px;border:1px solid #2d333b;border-radius:14px;background:#0d1117;text-align:left;">
+		<h4 style="margin:4px 0 8px;">🖥️ Frontend</h4>
+		<p style="margin:0 0 6px;">
+			<code>React</code> <code>Next.js</code> <code>TypeScript</code><br/>
+			<code>CSS Modules</code>
+		</p>
+		<img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb" />
+		<img src="https://img.shields.io/badge/Next.js-000?logo=next.js" />
+		<img src="https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white" />
+	</div>
 
-- React / Next.js: component-driven UI + SSR/ISR for performance.
-- FastAPI: modern Python async APIs with type hints & auto docs.
-- PostgreSQL: reliability + indexing & JSON support.
-- Docker & AWS (basic): reproducible packaging & simple deployment.
+	<div style="min-width:210px;max-width:230px;padding:14px 16px;border:1px solid #2d333b;border-radius:14px;background:#0d1117;text-align:left;">
+		<h4 style="margin:4px 0 8px;">⚙️ Backend / APIs</h4>
+		<p style="margin:0 0 6px;">
+			<code>FastAPI</code> <code>Python (async)</code> <code>REST</code>
+		</p>
+		<img src="https://img.shields.io/badge/FastAPI-05998b?logo=fastapi&logoColor=white" />
+		<img src="https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=ffdd54" />
+	</div>
 
-</details>
+	<div style="min-width:210px;max-width:230px;padding:14px 16px;border:1px solid #2d333b;border-radius:14px;background:#0d1117;text-align:left;">
+		<h4 style="margin:4px 0 8px;">🗄️ Data</h4>
+		<p style="margin:0 0 6px;">
+			<code>PostgreSQL</code> <code>MySQL</code>
+		</p>
+		<img src="https://img.shields.io/badge/PostgreSQL-31648c?logo=postgresql&logoColor=white" />
+		<img src="https://img.shields.io/badge/MySQL-0f4c78?logo=mysql&logoColor=white" />
+	</div>
+
+	<div style="min-width:210px;max-width:230px;padding:14px 16px;border:1px solid #2d333b;border-radius:14px;background:#0d1117;text-align:left;">
+		<h4 style="margin:4px 0 8px;">🚀 DevOps & Cloud</h4>
+		<p style="margin:0 0 6px;">
+			<code>Git</code> <code>Docker (basic)</code><br/>
+			<code>Postman</code> <code>AWS (EC2 · Lambda)</code>
+		</p>
+		<img src="https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white" />
+		<img src="https://img.shields.io/badge/AWS-232f3e?logo=amazonaws&logoColor=ff9900" />
+	</div>
+
+	<div style="min-width:210px;max-width:230px;padding:14px 16px;border:1px solid #2d333b;border-radius:14px;background:#0d1117;text-align:left;">
+		<h4 style="margin:4px 0 8px;">🧪 Learning / Exploring</h4>
+		<p style="margin:0 0 6px;">
+			<code>SQLModel</code> <code>Prisma</code> <code>CI/CD</code>
+		</p>
+		<img src="https://img.shields.io/badge/Experimenting-FFD700?labelColor=444&style=flat" />
+	</div>
+
+	<div style="min-width:210px;max-width:230px;padding:14px 16px;border:1px solid #2d333b;border-radius:14px;background:#0d1117;text-align:left;">
+		<h4 style="margin:4px 0 8px;">🤝 Soft Skills</h4>
+		<p style="margin:0 0 6px;">
+			<code>Communication</code> <code>Teamwork</code><br/>
+			<code>Problem Solving</code>
+		</p>
+		<img src="https://img.shields.io/badge/Focus-Quality%20%26%20Iteration-36BCF7?labelColor=20232a" />
+	</div>
+
+</div>
+
+<br/>
+<sub>Focused stack • Depth over breadth • Ship → get feedback → refine.</sub>
+
+</div>
+
+<!-- Removed old stacked badges section in favor of centered block above -->
 
 ---
 
@@ -69,7 +114,7 @@ Da Son 2, Hoa Khanh Nam, Lien Chieu · 0376 143 967 · hongochoa203@gmail.com
 
 <p align="center">
 	<img height="150" src="https://github-readme-stats.vercel.app/api?username=ngochoa203&show_icons=true&theme=tokyonight&hide_border=true" />
-	<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngochoa203&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+	<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngochoa203&hide=php&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
 	<img src="https://github-readme-activity-graph.vercel.app/graph?username=ngochoa203&theme=tokyo-night&hide_border=true" />
@@ -96,7 +141,5 @@ Da Son 2, Hoa Khanh Nam, Lien Chieu · 0376 143 967 · hongochoa203@gmail.com
 
 <div align="center">
 
-*“Learning by building.”*  
-<sub>Built with Markdown + shields.io badges · Animated banner via capsule-render · Typing SVG via readme-typing-svg.</sub>
 
 </div>
