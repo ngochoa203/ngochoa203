@@ -1,0 +1,59 @@
+<svg width="760" height="90" viewBox="0 0 760 90" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="qTitle">
+	<title id="qTitle">The greatest happiness is to love and to be loved. And I have it.</title>
+	<defs>
+		<!-- Gradients -->
+		<linearGradient id="g1" x1="0" y1="0" x2="760" y2="0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#36BCF7" />
+			<stop offset="0.5" stop-color="#8B5CF6" />
+			<stop offset="1" stop-color="#F59E0B" />
+		</linearGradient>
+		<linearGradient id="g2" x1="0" y1="0" x2="760" y2="0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#F59E0B" />
+			<stop offset="0.5" stop-color="#10B981" />
+			<stop offset="1" stop-color="#36BCF7" />
+		</linearGradient>
+
+		<!-- Reveal masks -->
+		<clipPath id="revealLine1">
+			<rect x="0" y="0" width="0" height="40">
+				<animate attributeName="width" values="0;760" dur="2.8s" fill="freeze" />
+			</rect>
+		</clipPath>
+		<clipPath id="revealLine2">
+			<rect x="0" y="0" width="0" height="40">
+				<animate attributeName="width" begin="revealLine1Rect.end+0.1s" values="0;760" dur="2.2s" fill="freeze" />
+			</rect>
+		</clipPath>
+		<!-- Fallback: SMIL begin chaining via id unsupported, so we also add explicit begin with previous animate id -->
+		<style>
+			text { font-family: 'Fira Code', 'JetBrains Mono', 'Courier New', monospace; font-size:20px; font-weight:500; }
+			@media (prefers-color-scheme: dark) { text { filter: drop-shadow(0 1px 2px rgba(0,0,0,0.6)); } }
+		</style>
+	</defs>
+
+	<!-- Background (transparent) -->
+	<rect width="760" height="90" rx="8" fill="none" />
+
+	<!-- Line 1 with animated clip -->
+	<g clip-path="url(#revealLine1)">
+		<text x="50%" y="38" text-anchor="middle" fill="url(#g1)">The greatest happiness is to love and to be loved</text>
+	</g>
+
+	<!-- Caret for line 1 -->
+	<rect id="caret1" x="380" y="17" width="14" height="24" fill="#36BCF7" opacity="0">
+		<animate attributeName="x" from="0" to="746" dur="2.8s" fill="freeze" />
+		<animate attributeName="opacity" values="0;1;0;1;0;1;0" dur="2.8s" repeatCount="1" />
+	</rect>
+
+	<!-- Line 2 (starts after line1 finishes) -->
+	<g clip-path="url(#revealLine2)">
+		<text x="50%" y="70" text-anchor="middle" fill="url(#g2)">And I have it.</text>
+	</g>
+
+	<!-- Simple blink caret at end after both lines done -->
+	<rect x="746" y="49" width="14" height="24" fill="#10B981" opacity="0">
+		<animate attributeName="opacity" begin="2.9s" values="0;1;0;1;0;1;0;1;0" dur="3s" repeatCount="1" />
+	</rect>
+
+	<!-- Note: Some GitHub sanitization may strip complex SMIL sequencing. If animation fails, convert to GIF or external service. -->
+</svg>
