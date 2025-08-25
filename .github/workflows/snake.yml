@@ -1,5 +1,8 @@
 name: Generate Snake
 
+permissions:
+  contents: write  # allow pushing generated snake SVGs
+
 on:
   schedule:
     - cron: "0 0 * * *"  # daily

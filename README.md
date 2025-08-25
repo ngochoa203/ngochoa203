@@ -1,15 +1,18 @@
 <!-- Profile Header -->
 <div align="center">
 
-<img src="https://github.com/ngochoa203.png?size=160" width="140" alt="Avatar" style="border-radius:50%;" />
+<!-- Avatar removed as requested -->
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=36BCF7&text=Ho%20Ngoc%20Hoa&height=90&fontAlign=50&animation=fadeIn" alt="Name Banner" />
 
 <strong><span style="font-size:16px;letter-spacing:1px;">Fullstack Developer (Student)</span></strong>
 
-<!-- Gradient quote (both lines show together, no sequential typing) -->
-<img src="assets/quote.svg" alt="The greatest happiness is to love and to be loved. And I have it." width="760" />
+<!-- Quote shown as two separate lines (no SVG) -->
+<div style="margin-top:12px;margin-bottom:4px;line-height:1.25;">
+	<div style="font-size:18px;font-weight:600;background:linear-gradient(90deg,#36BCF7,#8e44ad,#f39c12);-webkit-background-clip:text;color:transparent;">The greatest happiness is to love and to be loved.</div>
+	<div style="font-size:18px;font-weight:600;background:linear-gradient(90deg,#f39c12,#8e44ad,#36BCF7);-webkit-background-clip:text;color:transparent;">And I have it.</div>
+</div>
 <p style="margin-top:12px;">Da Nang, Viet Nam 🇻🇳 · 0376 143 967 · <a href="mailto:hongochoa203@gmail.com">hongochoa203@gmail.com</a></p>
 
 <p>
