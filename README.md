@@ -151,12 +151,27 @@
 <br/>
 <strong>✨ Extras</strong>
 <div>
-	<img src="https://github-profile-trophy.vercel.app/?username=ngochoa203&theme=algolia&margin-w=8&margin-h=8&no-frame=true" alt="Trophies" />
-	<br/>
+	<!-- Removed trophies (fetch error) -->
 	<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 	<br/>
-	<sub><em>Principles:</em> Ship small • Measure • Refactor • Automate.</sub>
+	<!-- Activity & health badges -->
+	<img src="https://img.shields.io/github/commit-activity/m/ngochoa203/ngochoa203?label=repo%20commit%20activity" />
+	<img src="https://img.shields.io/github/last-commit/ngochoa203/ngochoa203?logo=git" />
+	<img src="https://img.shields.io/github/stars/ngochoa203?affiliations=OWNER&label=Stars&logo=github" />
+	<br/>
+	<!-- Star history (lightweight SVG) -->
+	<img src="https://api.star-history.com/svg?repos=ngochoa203/ngochoa203&type=Date" alt="Star History" width="480" />
+	<br/>
+	<!-- Quick facts -->
+	<sub><em>Principles:</em> Ship small • Measure • Refactor • Automate.</sub><br/>
+	<sub><em>Quick facts:</em> Prefer typed APIs • Fan of DX tooling • Feedback driven.</sub>
 </div>
+
+### 🚀 Pinned Projects (manual)
+<ul>
+	<li><a href="https://github.com/ngochoa203/ngochoa203"><strong>Profile Repo</strong></a> – Automation (snake, stats) playground.</li>
+	<li><a href="#"><em>Add more later…</em></a></li>
+</ul>
 
 <br/>
 <strong>🐍 Contribution Snake</strong><br/>
