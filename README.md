@@ -103,18 +103,7 @@
 	</div>
 </details>
 
-<details>
-	<summary><strong>🌱 Learning Roadmap (2025)</strong></summary>
-	<div align="left">
-		<ul>
-			<li>[ ] Advanced FastAPI: background tasks, event hooks</li>
-			<li>[ ] CI/CD: GitHub Actions matrix + cache</li>
-			<li>[ ] Observability: metrics + tracing basics</li>
-			<li>[ ] Prisma vs SQLModel performance notes</li>
-			<li>[ ] Auth patterns: JWT rotation, refresh flow</li>
-		</ul>
-	</div>
-</details>
+<!-- Learning Roadmap removed as requested -->
 
 </div>
 
@@ -158,20 +147,25 @@
 <img src="https://img.shields.io/github/followers/ngochoa203?style=flat&logo=github" alt="Followers" />
 <img src="https://img.shields.io/badge/Focus-Clean%20Code-0366d6?style=flat" alt="Focus" />
 <br/>
-<details>
-	<summary><strong>📊 Extended Metrics</strong></summary>
-	<img src="https://metrics.lecoq.io/ngochoa203?template=classic&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FHo_Chi_Minh" alt="Metrics" />
-</details>
 
-<details>
-	<summary><strong>🐍 Contribution Snake</strong></summary>
-	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ngochoa203/ngochoa203/output/snake-dark.svg" />
-		<img alt="Snake animation" src="https://raw.githubusercontent.com/ngochoa203/ngochoa203/output/snake.svg" />
-	</picture>
+<br/>
+<strong>✨ Extras</strong>
+<div>
+	<img src="https://github-profile-trophy.vercel.app/?username=ngochoa203&theme=algolia&margin-w=8&margin-h=8&no-frame=true" alt="Trophies" />
 	<br/>
-	<sub>Generated daily via GitHub Actions.</sub>
-</details>
+	<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+	<br/>
+	<sub><em>Principles:</em> Ship small • Measure • Refactor • Automate.</sub>
+</div>
+
+<br/>
+<strong>🐍 Contribution Snake</strong><br/>
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ngochoa203/ngochoa203/output/snake-dark.svg" />
+	<img alt="Snake animation" src="https://raw.githubusercontent.com/ngochoa203/ngochoa203/output/snake.svg" />
+</picture>
+<br/>
+<sub>Generated daily via GitHub Actions.</sub>
 
 </div>
 
