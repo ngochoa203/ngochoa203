@@ -8,7 +8,7 @@
 
 <strong><span style="font-size:16px;letter-spacing:1px;">Fullstack Developer (Student)</span></strong>
 
-<img src="assets/quote.svg" alt="The greatest happiness is to love and to be loved. And I have it." width="760" />
+<img src="assets/quote.svg?v=2" alt="The greatest happiness is to love and to be loved. And I have it." width="760" />
 <p style="margin-top:12px;">Da Nang, Viet Nam 🇻🇳 · 0376 143 967 · <a href="mailto:hongochoa203@gmail.com">hongochoa203@gmail.com</a></p>
 
 <p>
