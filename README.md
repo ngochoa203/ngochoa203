@@ -8,11 +8,7 @@
 
 <strong><span style="font-size:16px;letter-spacing:1px;">Fullstack Developer (Student)</span></strong>
 
-<!-- Quote shown as two separate lines (no SVG) -->
-<div style="margin-top:12px;margin-bottom:4px;line-height:1.25;">
-	<div style="font-size:18px;font-weight:600;background:linear-gradient(90deg,#36BCF7,#8e44ad,#f39c12);-webkit-background-clip:text;color:transparent;">The greatest happiness is to love and to be loved.</div>
-	<div style="font-size:18px;font-weight:600;background:linear-gradient(90deg,#f39c12,#8e44ad,#36BCF7);-webkit-background-clip:text;color:transparent;">And I have it.</div>
-</div>
+<img src="assets/quote.svg" alt="The greatest happiness is to love and to be loved. And I have it." width="760" />
 <p style="margin-top:12px;">Da Nang, Viet Nam 🇻🇳 · 0376 143 967 · <a href="mailto:hongochoa203@gmail.com">hongochoa203@gmail.com</a></p>
 
 <p>
