@@ -18,8 +18,6 @@
 	<a href="#-contact">Contact</a>
 </p>
 
-<em>Modern web & API enthusiast (React / Next.js / FastAPI). Build small, iterate fast, refine DX & UX.</em>
-
 </div>
 
 ---
@@ -99,8 +97,6 @@
 	</div>
 </details>
 
-<!-- Learning Roadmap removed as requested -->
-
 </div>
 
 ---
@@ -157,8 +153,6 @@
 	<img alt="Snake animation" src="https://raw.githubusercontent.com/ngochoa203/ngochoa203/output/snake.svg" />
 </picture>
 <br/>
-<sub>Generated daily via GitHub Actions.</sub>
-
 </div>
 
 ---
@@ -174,12 +168,6 @@
 | Phone | 0376 143 967 |
 | Location | Da Nang, Viet Nam |
 
-<br/>
-<sub>Prefer async communication — email first.</sub>
 </div>
 
 ---
-
-<div align="center">
-<sub>Thanks for visiting 🚀 — feel free to connect!</sub>
-</div>
